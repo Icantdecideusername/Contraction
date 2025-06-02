@@ -1,2 +1,2 @@
 # Contraction (binary encoding)
-Binary encoding, for multiplayer
+Binary encoding, specializes in ints and fixed point encoding
